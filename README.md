@@ -1,6 +1,6 @@
 # String-finder
-A simple Python program that counts letters or words inside a given text.
 ----------
+A simple Python program that counts letters or words inside a given text.
 
 After running the program
 ----------
